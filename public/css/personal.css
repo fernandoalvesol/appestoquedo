@@ -1,0 +1,25 @@
+#lista{
+	border: 2px solid black;
+}
+
+.listagem{
+    text-align: center;
+    font-size: 17px;
+}
+
+.form-horizontal{
+    background: #ccc;
+    margin: 5px 5px 5px 5px;
+    padding: 22px 17px 9px 10px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.title-login{
+    font-size: 24px;
+    background: #a73636;
+    padding: 6px 10px 12px 8px;
+    margin: 8px 8px 3px 11px;
+    border-radius: 6px;
+    color: #fff;
+}

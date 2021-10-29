@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-cors` will be documented in this file
 
+## 1.7.0 - 2021-06-10
+
+- add PHP 8.0 support
+
+## 1.6.0 - 2019-09-04
+
+- make compatible with Laravel 6
+
 ## 1.5.2 - 2019-07-19
 
 - improve responses for preflight requests
